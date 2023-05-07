@@ -1,3 +1,4 @@
+import HomePage from '../pageobjects/HomePage';
 const { Given, When, And } = require('cucumber');
 const HomePage = require('../pageobjects/HomePage');
 
